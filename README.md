@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm hwi-woong</h1>
+<h1 align="center">Hi 👋, I'm Hwiwoong</h1>
 <h3 align="center">A passionate frontend developer, and P.M</h3>
+
+- 🔭 I’m currently working on [Ottify](http://ottify.kro.kr/)
+
+- 👨‍💻 All of my projects are available at [https://hwi-woong.github.io/hwi.github.io/](https://hwi-woong.github.io/hwi.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
