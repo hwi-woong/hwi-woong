@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ottify](http://ottify.kro.kr/)
 
-- 👨‍💻 All of my projects are available at [https://hwi-woong.github.io/hwi.github.io/](https://hwi-woong.github.io/hwi.github.io/)
+- 👨‍💻 All of my projects are available at [https://hwiresume.netlify.app/]
 
 - 📫 How to reach me **mattnaver@gmail.com**
 
