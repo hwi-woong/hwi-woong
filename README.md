@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Hwiwoong</h1>
-<h3 align="center">A passionate frontend developer, and P.M</h3>
+<h1 align="center">진휘웅 · Product Planner</h1>
+<p align="center">UX Strategist — 데이터 기반 사용자 중심 기획자</p>
 
-- 🔭 I’m currently working on [Ottify](http://ottify.kro.kr/)
+<p align="center">사용자 니즈를 분석하고 데이터를 검증하며, 고객과 기업을 연결하는 기획자입니다.</p>
 
-- 👨‍💻 All of my projects are available at [https://hwiresume.netlify.app/]
+<br />
 
-- 📫 How to reach me **mattnaver@gmail.com**
+- 🔭 현재 **본아이에프**에서 Store Manager로 근무하며, Copilot Studio 기반 사내 AI 에이전트를 기획·개발하고 있습니다
+- 📂 모든 프로젝트는 **[포트폴리오](https://hwiresume.netlify.app/)** 에서 확인하실 수 있습니다
+- 📫 **mattnaver@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/https://www.instagram.com/genie_woong?igsh=yzvkodrmotdmmw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/genie_woong?igsh=yzvkodrmotdmmw==" height="30" width="40" /></a>
+<br />
+
+**Tools**  Notion · Figma · Excel · Slack · MS Teams · Copilot · ChatGPT · Claude
+
+<p>
+  <a href="https://hwiresume.netlify.app/" target="_blank">Portfolio</a> ·
+  <a href="https://www.instagram.com/genie_woong/" target="_blank">Instagram</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
